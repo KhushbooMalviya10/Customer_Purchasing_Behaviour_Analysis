@@ -101,8 +101,6 @@ HAVING SUM(Purchase_Amount_USD) > (
     SELECT AVG(Purchase_Amount_USD) FROM shopping_trends
 );
 
-
-
 ---14. Repeat Customers
 SELECT Customer_ID, COUNT(*) AS total_orders
 FROM shopping_trends
