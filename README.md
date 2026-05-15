@@ -1,4 +1,4 @@
-Customer Purchase Behavior Analysis
+## Customer Purchase Behavior Analysis
 
 𝗢𝗯𝗷𝗲𝗰𝘁𝗶𝘃𝗲: To analyze customer transaction data and understand purchasing patterns, customer segments, and spending behavior using 𝗦𝗤𝗟 and 𝗣𝘆𝘁𝗵𝗼𝗻 (𝗣𝗮𝗻𝗱𝗮𝘀, 𝗡𝘂𝗺𝗣𝘆), and to generate insights that support customer retention, sales optimization, and business decision-making.
 
